@@ -49,9 +49,9 @@ height: 40px;
   background-color: rgb(63, 62, 63);
 }
 
-.page_header{
+.page_header, .link{
 float:left;
-margin:0;
+margin:7px;
 padding-right: 10px;
 padding-left: 20px;
 }
